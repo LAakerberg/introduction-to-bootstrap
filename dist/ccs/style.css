@@ -65,9 +65,9 @@
   --bs-border-radius: 1000rem;
   --bs-border-radius-sm: 1000rem;
   --bs-border-radius-lg: 1000rem;
-  --bs-border-radius-xl: 1000rem;
-  --bs-border-radius-2xl: 1000rem;
-  --bs-border-radius-pill: 1000rem;
+  --bs-border-radius-xl: 1rem;
+  --bs-border-radius-2xl: 2rem;
+  --bs-border-radius-pill: 50rem;
   --bs-link-color: #2961ac;
   --bs-link-hover-color: #214e8a;
   --bs-code-color: #d63384;
