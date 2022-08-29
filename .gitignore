@@ -1,0 +1,3 @@
+# ignore modules in git...
+
+/node_modules

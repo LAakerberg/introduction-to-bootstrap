@@ -1,0 +1,22 @@
+{
+  "name": "installations-of-sass",
+  "version": "0.0.1",
+  "description": "installations of ssas for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/ccs & live-server"
+  },
+  "keywords": [
+    "introdctions",
+    "installations",
+    "sass"
+  ],
+  "author": "Linus Aakerberg <linus.akerberg@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.54.5"
+  }
+}
